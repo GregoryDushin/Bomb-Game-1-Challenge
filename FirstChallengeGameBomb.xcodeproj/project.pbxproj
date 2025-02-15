@@ -57,7 +57,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D97F3082D59660A006F9463 /* Settings in Frameworks */,
-				32FB6C3A2D5E14AA00C43354 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +215,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
+				DEVELOPMENT_TEAM = MVZ2D7626T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FirstChallengeGameBomb/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = BombGame;
@@ -386,7 +385,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		32FB6C382D5E14AA00C43354 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+		F362ABC82D60DCB20040144E /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/airbnb/lottie-ios.git";
 			requirement = {
@@ -397,11 +396,6 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		32FB6C392D5E14AA00C43354 /* Lottie */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 32FB6C382D5E14AA00C43354 /* XCRemoteSwiftPackageReference "lottie-ios" */;
-			productName = Lottie;
-		};
 		4D97F3072D59660A006F9463 /* Settings */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Settings;
